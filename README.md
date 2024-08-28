@@ -1,0 +1,1 @@
+Learn Array Methods for example Destructuring, Map, Filter, Reduce, Sort, ForEach, Find, Some, Every, and FindIndex just to name a few while creating a Bankist Demo App where a user can log in check balance, transfer money to other users and can close their account.
